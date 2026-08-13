@@ -15,5 +15,5 @@ Este repositorio contiene la implementación inicial para conectar y consumir la
 
 ### 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/TU_USUARIO/conexion-api-gemini.git](https://github.com/TU_USUARIO/conexion-api-gemini.git)
-cd conexion-api-gemini
+git clone [https://github.com/papagrosly-boop/geminirep.git](https://github.com/papagrosly-boop/geminirep.git)
+cd geminirep
